@@ -1,0 +1,29 @@
+.block1{
+    width: 100%;
+    padding: 10px;
+    background-color :blue;
+    font-size: 25px;
+    box-sizing: border-box;
+    text-align: center;
+}
+h2{
+    color:darkblue;
+    font-size: 25px;
+    padding-block: revert;
+}
+li{
+    color:darkblue;
+    font-size: 20px;  
+}
+
+p{
+    color: darkblue;   
+}
+
+table{
+    color: darkblue;
+}
+
+th{
+    background-color: lightgrey;
+}
