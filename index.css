@@ -1,7 +1,7 @@
 .block1{
     width: 100%;
     padding: 10px;
-    background-color :blue;
+    background-color:gainsboro;
     font-size: 25px;
     box-sizing: border-box;
     text-align: center;
@@ -11,7 +11,7 @@ h2{
     font-size: 20px;
     margin: 0%;
 }
-li{
+.main{
     color:darkblue;
     font-size: 20px;  
 }
